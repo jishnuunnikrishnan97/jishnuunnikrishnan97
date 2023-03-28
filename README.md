@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jishnu Unnikrishnan</h1>
-<h3 align="center">A passionate Data Science from India</h3>
+<h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
 - 📫 How to reach me **mr.j31397@gmail.com**
 
